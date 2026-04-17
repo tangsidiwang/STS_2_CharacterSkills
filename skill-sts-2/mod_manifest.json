@@ -1,0 +1,11 @@
+{
+  "id": "Skill_StS2",           
+  "name": "技能",
+  "author": "TongsKing",
+  "description": "给角色添加技能",
+  "version": "1.0",
+  "has_pck": false,         
+  "has_dll": true,        
+  "dependencies": [""],     
+  "affects_gameplay": true 
+}
